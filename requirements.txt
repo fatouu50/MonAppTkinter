@@ -1,0 +1,12 @@
+# Cette application utilise uniquement la bibliothèque standard Python.
+# Aucune installation supplémentaire n'est requise.
+#
+# Modules utilisés (inclus avec Python) :
+#   - tkinter     : interface graphique
+#   - math        : calculs géométriques
+#
+# Prérequis : Python 3.8 ou supérieur
+#
+# Sur certaines distributions Linux, tkinter doit être installé séparément :
+#   Ubuntu / Debian : sudo apt-get install python3-tk
+#   Fedora          : sudo dnf install python3-tkinter
